@@ -1,0 +1,117 @@
+{
+	"name": "Piyush Kunal",
+	"email": "piyushkunal@outlook.com",
+	"phone": "750-106-3591",
+	"image": "https://instagram.fblr2-1.fna.fbcdn.net/vp/3b5bd909aa818696ec5d53c4f6bf0897/5C1BD988/t51.2885-19/s150x150/13722143_1738247213108112_1124021649_a.jpg",
+	"website": "piyush-kunal.github.io/",
+	"twitter": "@heypiyush",
+	"twitterURL": "https://twitter.com/heypiyush",
+	"experiences" : [
+		{
+			"title" : "Software Developer",
+			"period": "Aug, 2017 - Present",
+			"company": "Axis bank, Bangalore",
+			"companyURL": "https://www.axisbank.com/thoughtfactory/index.html",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		},
+		{
+			"title" : "Software Engineer",
+			"period": "Nov, 2017 - July, 2018",
+			"company": "Zensar, Bangalore",
+			"companyURL": "https://www.zensar.com/",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+        },
+        {
+			"title" : "Software Engineer",
+			"period": "Aug, 2015 - Oct, 2017",
+			"company": "Tecnotree, Bangalore",
+			"companyURL": "http://www.tecnotree.com/",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		}
+	],
+	"projects": [
+		{
+			"name":"CLM",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Selfcare",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Tempo",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Atom",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Delta",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "ReactJs",
+			"percent": "98%"
+		},
+		{
+			"name": "Javascript & jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "Angular",
+			"percent": "80%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "Ruby on Rails",
+			"percent": "70%"
+		},
+		{
+			"name": "Sketch & Photoshop",
+			"percent": "85%"
+		}
+	],
+	"education": [
+		{
+			"degree": "MSc in Computer Science",
+			"university": "University of London",
+			"period": "2011 - 2012"
+		},
+		{
+			"degree": "BSc in Applied Mathematics",
+			"university": "Bristol University",
+			"period": "2007 - 2011"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Native"
+		},
+		{
+			"name":"French",
+			"details": "Professional"
+		},
+		{
+			"name":"Spanish",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Climbing",
+		"Snowboarding",
+		"Cooking",
+		"Coding"
+	]
+}
